@@ -9,7 +9,7 @@ Our crowdfunding DApp enables project creators to raise capital directly from a 
 
 ## Project Overview
 
-![alt text](https://www.daulathussain.com/wp-content/uploads/2023/04/crowd-funding-marketplace.jpg)
+<img width="3017" height="1913" alt="Screenshot from 2026-01-09 15-58-07" src="https://github.com/user-attachments/assets/e2a0a245-c623-43c8-ae3b-dd11ac1756d6" />
 
 ## Instruction
 
